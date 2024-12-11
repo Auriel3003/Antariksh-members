@@ -1,0 +1,8 @@
+/var/lib/emby/config/system.xml
+/etc/firewalld/services/emby-server.xml
+/usr/share/plasma/weather/noaa_station_list.xml
+/usr/share/gutenprint/5.3/xml/dither/matrix-4x1.xml
+/usr/share/gutenprint/5.3/xml/dither/matrix-2x1.xml
+/usr/share/gutenprint/5.3/xml/dither/matrix-1x1.xml
+/usr/share/osinfo/os/fedoraproject.org/fedora-4.xml
+/usr/share/osinfo/os/fedoraproject.org/fedora-9.xml
